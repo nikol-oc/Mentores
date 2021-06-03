@@ -7,7 +7,7 @@ var port=3800;
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost:27017/app_mongo',{useNewUrlParser: true,useUnifiedTopology: true })
 .then(() => {
-	console.log('La conexion a MongoDB se ha realizado correctamente!!');
+	console.log('La conexion a MongoDB se ha realizado correctamente!');
 
 	app.listen(port, ()=>{
 		console.log('El servidor esta corriendo en localhost:3800');
