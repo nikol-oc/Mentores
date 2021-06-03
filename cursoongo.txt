@@ -1,0 +1,27 @@
+curso mongo
+// Para cmd:
+
+//1
+// estas dependencias se instalan con cmd
+//npm install express
+//npm install body-parser --save
+//npm install mongoose --save
+//npm install nodemon --save-dev
+
+//2
+//C:\Users\pc\Desktop\Cursomongo>node index.js
+//La conexion a MongoDB se ha realizado correctamente!!
+
+//3
+//C:\Users\pc\Desktop\Cursomongo>npm start
+
+//> cursomongo@1.0.0 start C:\Users\pc\Desktop\Cursomongo
+//> nodemon index.js
+
+//[nodemon] 2.0.2
+//[nodemon] to restart at any time, enter `rs`
+//[nodemon] watching dir(s): *.*
+//[nodemon] watching extensions: js,mjs,json
+//[nodemon] starting `node index.js`
+//La conexion a MongoDB se ha realizado correctamente!!
+//El servidor esta corriendo en localhost:3800

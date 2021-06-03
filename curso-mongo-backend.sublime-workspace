@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"en",
+				"enviar_a"
+			],
+			[
+				"me",
+				"mensaje_preparado"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"co",
+				"correo"
+			],
+			[
+				"if",
+				"ifelse\t<?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"getype",
+				"gettype"
+			],
+			[
+				"de",
+				"deleteFruta"
+			],
+			[
+				"fru",
+				"frutaRemoved"
+			],
+			[
+				"fruta",
+				"frutaId"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"fr",
+				"FrutaController"
+			],
+			[
+				"get",
+				"getFruta"
+			],
+			[
+				"frutas",
+				"frutas"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sa",
+				"saveFruta"
+			],
+			[
+				"frut",
+				"frutaStored"
+			],
+			[
+				"p",
+				"pruebas"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"no",
+				"nodemon"
+			],
+			[
+				"bp",
+				"bodyParser"
+			],
+			[
+				"la",
+				"Label"
+			],
+			[
+				"c",
+				"config"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/curso_php/ajax/index.html",
+			"settings":
+			{
+				"buffer_size": 1291,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "//objeto json\n\nvar carlos = {\n\t\"nombre\": \"Carlos Arturo\",\n\t\"edad\":23,\n\t\"pais\":\"Mexico\"\n\n}\n\nvar Alejandro = {\n\t\"nombre\": \"Alejandro\",\n\t\"edad\":30,\n\t\"pais\":\"España\"\n\n}\n\nconsole.log(carlos.nombre);",
+			"file": "/C/xampp/htdocs/curso_php/ajax/js/jason.js",
+			"file_size": 203,
+			"file_write_time": 132297263769677563,
+			"settings":
+			{
+				"buffer_size": 193,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/pc/Desktop/Cursomongo",
+		"/C/Users/pc/Desktop/Cursomongo/models",
+		"/C/Users/pc/Desktop/Cursomongo/routes"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/curso_php/practicas/blog/paginacion.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/login.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/admin/config.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/header.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/editar.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/buscar.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/index.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/admin_index.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/footer.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/single.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/nuevo.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/login.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/views/index.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/single.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/functions.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/buscar.php",
+		"/C/xampp/htdocs/curso_php/practicas/blog/css/estilos.css",
+		"/C/xampp/htdocs/curso_php/practicas/blog/error.php",
+		"/C/xampp/htdocs/curso_php/practicas/galeria/subir.php",
+		"/C/xampp/htdocs/curso_php/practicas/galeria/views/index.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/galeria/index.php",
+		"/C/xampp/htdocs/curso_php/practicas/galeria/foto.php",
+		"/C/xampp/htdocs/curso_php/practicas/galeria/funciones.php",
+		"/C/xampp/htdocs/curso_php/practicas/galeria/views/subir.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/galeria/views/foto.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/login_registro/index.php",
+		"/C/xampp/htdocs/curso_php/practicas/login_registro/login.php",
+		"/C/xampp/htdocs/curso_php/practicas/login_registro/views/registrate.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/login_registro/registrate.php",
+		"/C/xampp/htdocs/curso_php/practicas/login_registro/cerrar.php",
+		"/C/xampp/htdocs/curso_php/practicas/login_registro/contenido.php",
+		"/C/xampp/htdocs/curso_php/practicas/login_registro/views/login.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/login_registro/views/contenido.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/paginacion/index.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/paginacion/estilos.css",
+		"/C/xampp/htdocs/curso_php/practicas/paginacion/index.php",
+		"/C/xampp/htdocs/curso_php/practicas/index.php",
+		"/C/xampp/htdocs/curso_php/practicas/estilos.css",
+		"/C/xampp/htdocs/curso_php/practicas/index.view.php",
+		"/C/xampp/htdocs/curso_php/practicas/formulario_contacto/index.php",
+		"/C/xampp/htdocs/curso_php/practicas/formulario_contacto/estilos.css",
+		"/C/xampp/htdocs/curso_php/practicas/formulario_contacto/index.view.php",
+		"/C/xampp/htdocs/curso_php/formularios/index.php",
+		"/C/xampp/htdocs/curso_php/formularios/recibe.php",
+		"/C/xampp/htdocs/curso_php/arreglo_recorrer.php",
+		"/C/xampp/htdocs/curso_php/arreglo_bidimensionales.php",
+		"/C/xampp/htdocs/curso_php/arreglos.php",
+		"/C/xampp/htdocs/curso_php/arreglo_asociacitivo.php",
+		"/C/xampp/htdocs/curso_php/constantes.php",
+		"/C/xampp/htdocs/curso_php/variables.php",
+		"/C/xampp/htdocs/curso_php/hola_mundo.php",
+		"/C/Users/pc/Desktop/Cursomongo/controllers/fruta.js",
+		"/C/Users/pc/Desktop/Cursomongo/routes/fruta.js",
+		"/C/Users/pc/Desktop/Cursomongo/models/fruta.js",
+		"/C/Users/pc/Desktop/Cursomongo/app.js",
+		"/C/Users/pc/Desktop/Cursomongo/index.js",
+		"/C/Users/pc/Desktop/Cursomongo/package.json",
+		"/C/Users/pc/Documents/proyect/src/faces.py",
+		"/C/Users/pc/Documents/proyecto/src/faces.py",
+		"/C/Users/pc/Downloads/OpenCV-Python-Series-master/OpenCV-Python-Series-master/src/faces.py",
+		"/C/Users/pc/Downloads/webServiceV4.3.py",
+		"/C/Users/pc/Desktop/CICLO VI/IA-julio tuesta/face_rec/face_rec.py",
+		"/C/Users/pc/Downloads/Rec_Facial.rar",
+		"/E/webServiceV4.3.py",
+		"/C/Users/pc/Documents/interfaz.py",
+		"/C/Users/pc/Documents/ejemplo.py",
+		"/C/Users/pc/Documents/ControlDatos.pyw",
+		"/E/aaaa/webServiceV4.py",
+		"/C/Users/pc/Downloads/webServiceV2.py",
+		"/C/Users/pc/Documents/proyecto.py",
+		"/C/Users/pc/Desktop/grafica"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/curso_php/ajax/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1261,
+								1261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/curso_php/ajax/js/jason.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 31.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-mongo-backend.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src\\faces.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
