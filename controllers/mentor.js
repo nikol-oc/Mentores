@@ -120,7 +120,7 @@ function deleteMentor(req,res){
 				});
 			}else{
 				res.status(404).send({
-					menssage:'No existe la fruta'
+					menssage:'No existe el mentor'
 				});
 			}
 		}
